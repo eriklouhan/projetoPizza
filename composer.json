@@ -1,0 +1,16 @@
+{
+    "name": "projeto/pizza",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Projeto\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erik Louhan",
+            "email": "eriklouhan92@gmail.com"
+        }
+    ],
+    "require": {}
+}
