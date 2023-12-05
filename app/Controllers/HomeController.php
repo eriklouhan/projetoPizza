@@ -7,6 +7,7 @@ use Projeto\Core\Controller;
 class HomeController extends Controller{
 
     public function index(){
-        $this->view('inicial');
+        $dados = ['titulo' => 'Pizzaria'];
+        $this->view('inicial', $dados);
 }
 }

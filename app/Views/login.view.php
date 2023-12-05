@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Pizzaria</h1>
-    <h2>Login</h2>
+    <h2><?=$pagina?></h2>
 </body>
 </html>
 

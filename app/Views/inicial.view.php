@@ -6,8 +6,7 @@
     <title>Projeto</title>
 </head>
 <body>
-    <h1>Pizzaria</h1>
-    <h2>Login</h2>
+    <h1><?=$titulo?></h1>
     
 </body>
 </html>
