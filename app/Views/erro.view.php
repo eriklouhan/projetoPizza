@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto</title>
-</head>
-<body>
-    <h1>Pizzaria</h1>
+<?php componente('topo')?>
 
     <h2><?=$msg?></h2>
-</body>
-</html>
+
+<?php componente('rodape')?>
